@@ -1,0 +1,6 @@
+{
+  "name": "topic-guard",
+  "version": "1.0.0",
+  "description": "Blocks a prompt once a session gets too large (default 200k tokens), so users /clear or continue on purpose with '+'.",
+  "author": { "name": "context-guard" }
+}

@@ -1,0 +1,12 @@
+{
+  "name": "context-guard",
+  "owner": { "name": "context-guard" },
+  "plugins": [
+    {
+      "name": "topic-guard",
+      "source": "./plugins/topic-guard",
+      "description": "Blocks a prompt once a session gets too large (default 200k tokens), so users /clear or continue on purpose with '+'.",
+      "version": "1.0.0"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "extraKnownMarketplaces": {
+    "context-guard": {
+      "source": { "source": "github", "repo": "Atrinum-Group-AG/context-guard" }
+    }
+  },
+  "enabledPlugins": {
+    "topic-guard@context-guard": true
+  },
+  "env": {
+    "TOPIC_GUARD_BLOCK_CTX": "200000",
+    "TOPIC_GUARD_STEP_CTX": "100000"
+  }
+}
